@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham (Arin) Thinh</h1>
-<h3 align="center">A Unity developer from VietNam.</h3>
+<h3 align="center">Game director and developer at Golden Garlic Games.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
